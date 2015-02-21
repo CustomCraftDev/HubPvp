@@ -1,0 +1,12 @@
+name: HubPvp
+main: HubPvp
+description: requested plugin made by undeaD_D
+version: 1.0
+author: DieFriiks
+authors: [DieFriiks, undeaD_D]
+databse: false
+
+commands:
+  hubpvp:
+    usage: /hubpvp <reload>
+    description: HubPvp commands
