@@ -1,0 +1,33 @@
+debug: false
+msg:
+  prefix: '&7[&cHubPVP&7]'
+  noperm: '&cYou do not have enough access privileges for this operation.'
+  disable:
+    - '&7PvP disabled in &e3'
+    - '&e2'
+    - '&e1'
+    - '&7PvP is now &edisabled&7, you may no longer pvp with other player.'
+  enable:
+    - '&7PvP enabled in &e3'
+    - '&e2'
+    - '&e1'
+    - '&7PvP is now &eenabled&7, you may now pvp with other player.'
+
+sword:
+  slot: 4
+  name: '&7[&cHubPVP&7] Sword'
+  lore:
+    - '------------------------------'
+    - 'Shift Rightclick to toggle PVP'
+    - '------------------------------'
+
+enchants:
+  info: 'https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/enchantments/Enchantment.html'
+  helmet:
+    - 'PROTECTION_ENVIRONMENTAL,2'
+  chestplate:
+    - 'PROTECTION_ENVIRONMENTAL,2'
+    - 'THORNS,2'
+  leggings:
+  boots:
+    - 'PROTECTION_FALL,10'
